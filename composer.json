@@ -1,5 +1,5 @@
 {
-  "name": "henly/php-linux",
+  "name": "huwenlong92/php-linux",
   "description": "主要实现的功能 就是php对linux服务器的一些操作.",
   "type": "library",
   "license": "MIT",
